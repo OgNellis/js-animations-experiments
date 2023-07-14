@@ -1,0 +1,21 @@
+html {
+    width: 100%;
+    min-height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.animated-element {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #ff8d8d;
+}
